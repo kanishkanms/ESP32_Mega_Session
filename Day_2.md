@@ -45,5 +45,9 @@ toggle(5)
 ```
 Then run the code using this command after going to the right directory
 ```
-ampy --port COM5 run .\code.py
+ampy --port COM5 run code.py
+```
+For uploading the code
+```
+ampy --port COM5 put code.py
 ```
