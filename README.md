@@ -12,5 +12,11 @@
    https://youtube.com/playlist?list=PLYS_1w0FFIANdG78JyJu3tsumsXVIcXUB
    - Arduino 101: \
    https://youtube.com/playlist?list=PLPK2l9Knytg5s2dk8V09thBmNl2g5pRSr
+   
+### To start exploring:
+ - https://www.instructables.com/
+ - https://www.hackster.io/
+ - https://hackaday.com/
+ - 
 
 
