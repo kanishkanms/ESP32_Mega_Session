@@ -1,3 +1,18 @@
+## What is Micropython?
+MicroPython is a re-implementation of Python 3 targeted for microcontrollers and embedded systems. MicroPython is very similar with regular Python. So, if you already know how to program in Python, you also know how to program in MicroPython.
+
+## Python vs MicroPython
+Apart from a few exceptions, the language features of Python are also available in MicroPython. The biggest difference between Python and MicroPython is that MicroPython was designed to work under constrained conditions.
+
+Because of that, MicroPython does not come with the full standard library. It only includes a small subset of the Python standard library. However, it does include modules to access low-level hardware – this means that there are libraries to easily access and interact with the GPIOs.
+
+Additionally, devices with Wi-Fi capabilities like the ESP8266 and ESP32 include modules to support network connections.
+
+## Why MicroPython?
+Python is one of the most widely used, simple and easy-to-learn programming languages around. So, the emergence of MicroPython makes it extremely easy and simple to program digital electronics. If you’ve never programmed digital electronics before, MicroPython is a good starting point.
+
+
+
 ## Setting up Environment for working with Micropython
 
 ### 1)Install Python3 and pip
