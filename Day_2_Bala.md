@@ -33,12 +33,17 @@ Note:Before proceeding Connect you board and check whether the port is working p
    pip2 install esptool
    ```
    Go to folder where you downloaded the .bin file  
-
+   Using esptool.py you can erase the flash with the command:
    ```
-   esptool --chip esp32 --port COM5 erase_flash
+   esptool.py --port COM5 erase_flash                             # For Windows
+   esptool.py --port /dev/ttyUSB0 erase_flash                     # For Linux
+   esptool.py --port /dev/cu.SLAB_USBtoUART erase_flash           # For Mac
    ```
+   And then deploy the new firmware using:
    ```
-   esptool --chip esp32 --port COM5 --baud 460800 write_flash -z 0x1000 esp32-idf4-20210202-v1.14.bin
+   esptool.py --chip esp32 --port COM5 write_flash -z 0x1000 esp32-20180511-v1.9.4.bin                      # For Windows
+   esptool.py --chip esp32 --port /dev/ttyUSB0 write_flash -z 0x1000 esp32-20180511-v1.9.4.bin              # For Linux
+   esptool.py --chip esp32 --port /dev/cu.SLAB_USBtoUART write_flash -z 0x1000 esp32-20180511-v1.9.4.bin    # For Mac
    ```
    
 ### To run Micropython code on ESP32
@@ -48,6 +53,7 @@ pip install adafruit-ampy
 ```
 Sample code
 ```
+# code.py
 from machine import Pin
 import time
 
