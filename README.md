@@ -7,6 +7,10 @@
   - Brief about further sessions
   - Day 1 resources: [G_Drive](https://drive.google.com/drive/folders/1TQ7Fd92jFyBK3wqCiHJaTObA3OCjr4RQ?usp=sharing)
 
+### Day 2:
+
+   - Coming soon....................
+
 ### For Beginners:(Given below are resources for you to get started with electronics, try out circuits,etc)
    - Electronic basics:(Covers basic concepts and working of components) \
    https://youtube.com/playlist?list=PLYS_1w0FFIANdG78JyJu3tsumsXVIcXUB
