@@ -12,11 +12,18 @@
    https://youtube.com/playlist?list=PLYS_1w0FFIANdG78JyJu3tsumsXVIcXUB
    - Arduino 101: \
    https://youtube.com/playlist?list=PLPK2l9Knytg5s2dk8V09thBmNl2g5pRSr
+   - **One of the best writeups you can find in internet of Basics of Arduino (covers purposes of some of the components in the kit as well)**
+   https://www.instructables.com/A-Beginners-Guide-to-Arduino/
    
-### To start exploring:
+### To start exploring projects:
  - https://www.instructables.com/
  - https://www.hackster.io/
  - https://hackaday.com/
- - 
 
-
+### Cool and Fun youtube channels:
+ - ELECTRNOOBS: https://www.youtube.com/channel/UCjiVhIvGmRZixSzupD0sS9Q
+ - ELECTROBOOM: https://www.youtube.com/channel/UCjiVhIvGmRZixSzupD0sS9Q
+ - STUFF MADE HERE: https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ
+ - GREATSCOTT: https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ
+ Advanced:
+  - EEVBLOG: https://www.youtube.com/channel/UC2DjFE7Xf11URZqWBigcVOQ/
