@@ -31,3 +31,4 @@
   - STUFF MADE HERE: https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ
   - GREATSCOTT: https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ
   - EEVBLOG: https://www.youtube.com/channel/UC2DjFE7Xf11URZqWBigcVOQ/
+  - PAUL MCWHORTER : https://www.youtube.com/user/mcwhorpj
