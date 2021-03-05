@@ -15,6 +15,7 @@
    - **One of the best writeups you can find in internet of Basics of Arduino (covers purposes of some of the components in the kit as well)** \
    https://www.instructables.com/A-Beginners-Guide-to-Arduino/
    
+   - Has ESP32 beginners codes as well: https://github.com/aswinkumar1999/Intro_to_Arduino
 ### To start exploring projects:
  - https://www.instructables.com/
  - https://www.hackster.io/
