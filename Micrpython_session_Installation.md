@@ -13,13 +13,15 @@ Python is one of the most widely used, simple and easy-to-learn programming lang
 
 ## Setting up Environment for working with Micropython
 
-### 1)Install Python3 and pip
-     - https://www.tutorialsteacher.com/python/install-python
-     - Download and Install VS code: https://code.visualstudio.com/download
-     - Once installed add this extension : https://marketplace.visualstudio.com/items?itemName=ms-python.python
-     - And you are set :)
+### 1)Install Python3 and pip 
+   - https://www.tutorialsteacher.com/python/install-python
+   - Download and Install VS code: https://code.visualstudio.com/download
+   - Once installed add this extension : https://marketplace.visualstudio.com/items?itemName=ms-python.python
+   - And you are set :)
 
-Note:Before proceeding Connect you board and check whether the port is working properly if not install the necessary driver
+    
+
+*Note:Before proceeding Connect you board and check whether the port is working properly if not install the necessary driver*
 
 ### 2) Get the .bin file from Micropython website(https://micropython.org/download/esp32)
    - Given below is the link for stable release
