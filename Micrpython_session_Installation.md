@@ -14,6 +14,10 @@ Python is one of the most widely used, simple and easy-to-learn programming lang
 ## Setting up Environment for working with Micropython
 
 ### 1)Install Python3 and pip
+     - https://www.tutorialsteacher.com/python/install-python
+     - Download and Install VS code: https://code.visualstudio.com/download
+     - Once installed add this extension : https://marketplace.visualstudio.com/items?itemName=ms-python.python
+     - And you are set :)
 
 Note:Before proceeding Connect you board and check whether the port is working properly if not install the necessary driver
 
@@ -67,7 +71,9 @@ def toggle(max):
         lap+=1
 
 toggle(5)
+
 ```
+## ***Before proceeding with the below commands, go through the link attached in the last line***
 For uploading the code
 ```
 ampy --port COM5 put code.py                              # For Windows
@@ -82,4 +88,4 @@ ampy --port /dev/cu.SLAB_USBtoUART run code.py            # For Mac
 ```
 
 ### Some useful commands used in ampy
-[Link](https://learn.adafruit.com/micropython-basics-load-files-and-run-code/file-operations)
+https://learn.adafruit.com/micropython-basics-load-files-and-run-code/file-operations
