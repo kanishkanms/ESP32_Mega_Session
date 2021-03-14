@@ -1,24 +1,29 @@
 # ESP32_Mega_Session
 
+Resources for all the session(PPTs,Video and chat recordings): [G_Drive](https://drive.google.com/drive/folders/1TQ7Fd92jFyBK3wqCiHJaTObA3OCjr4RQ?usp=sharing)
+
 ### Day 1 (Feb 24 2021):  
   - Specifications of our Electronics Club Custom ESP32 dev board
   - ESP32 Setup Installation
   - Testing out the installation with simple sketches
   - Brief about further sessions
-  - Day 1 resources: [G_Drive](https://drive.google.com/drive/folders/1TQ7Fd92jFyBK3wqCiHJaTObA3OCjr4RQ?usp=sharing)
+ 
 
-### Day 2:
+### Day 2: (Mar 6 2021)
 
    - Coming soon....................
 
-### Day 3
+### Day 3 (Mar 8 2021)
    -
 
-### Day 4
+### Day 4 (Mar 13 2021)
   - Installation setup of Micropython
   - Intro to Micropython interface,syntax,REPL etc
   - Working of OLED,JoyStick,Buzzer
   - Made a arcade breakout game using all that was learnt 
+
+### Day 5 (Mar 14 2021):
+
 
 ### For Beginners:(Given below are resources for you to get started with electronics, try out circuits,etc)
    - Electronic basics:(Covers basic concepts and working of components) \
