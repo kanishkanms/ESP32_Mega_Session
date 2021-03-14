@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>ESP Web Server</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" type="text/css" href="style.css">
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/107/three.min.js"></script>
+</head>
+
+<body>
+  <div class="topnav">
+    <h1>MPU6050 3D Visualisation</h1>
+  </div>
+  <div class="content">
+
+    <button id="reset" onclick="resetPosition(this)">RESET POSITION</button>
+    <button id="resetX" onclick="resetPosition(this)">X</button>
+    <button id="resetY" onclick="resetPosition(this)">Y</button>
+    <button id="resetZ" onclick="resetPosition(this)">Z</button>
+    <div class="cube-content">
+      <div id="3Dcube"></div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>
