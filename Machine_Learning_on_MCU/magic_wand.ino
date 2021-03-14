@@ -62,8 +62,8 @@ void loop()
 
     // calibrated values
     ax = ax - baseline[0];
-    ay = ay - baseline[0];
-    az = az - baseline[0];
+    ay = ay - baseline[1];
+    az = az - baseline[2];
 
     if (!motionDetected(ax, ay, az))
     {
