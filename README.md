@@ -11,6 +11,15 @@
 
    - Coming soon....................
 
+### Day 3
+   -
+
+### Day 4
+  - Installation setup of Micropython
+  - Intro to Micropython interface,syntax,REPL etc
+  - Working of OLED,JoyStick,Buzzer
+  - Made a arcade breakout game using all that was learnt 
+
 ### For Beginners:(Given below are resources for you to get started with electronics, try out circuits,etc)
    - Electronic basics:(Covers basic concepts and working of components) \
    https://youtube.com/playlist?list=PLYS_1w0FFIANdG78JyJu3tsumsXVIcXUB
