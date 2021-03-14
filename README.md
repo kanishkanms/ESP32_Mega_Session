@@ -23,7 +23,16 @@ Resources for all the session(PPTs,Video and chat recordings): [G_Drive](https:/
   - Made a arcade breakout game using all that was learnt 
 
 ### Day 5 (Mar 14 2021):
-
+  - Intro to Machine Learning 
+  - Steps to go about while building a ML model
+  - Random Forest Classifier in detail
+  - ML on Edge devices
+  - Hands on session : Building a gesture identification Model
+    - Calibrating IMU
+    - Collecting data
+    - Training the data in google Colab or Local Machine
+    - Converting the model to C code
+    - And implement in ESP32
 
 ### For Beginners:(Given below are resources for you to get started with electronics, try out circuits,etc)
    - Electronic basics:(Covers basic concepts and working of components) \
