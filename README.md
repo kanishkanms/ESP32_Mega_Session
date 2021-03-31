@@ -44,6 +44,7 @@ Resources for all the session(PPTs,Video and chat recordings): [G_Drive](https:/
    
    - Has ESP32 beginners codes as well: https://github.com/aswinkumar1999/Intro_to_Arduino
 ### To start exploring projects:
+ - https://lastminuteengineers.com/
  - https://www.instructables.com/
  - https://www.hackster.io/
  - https://hackaday.com/
